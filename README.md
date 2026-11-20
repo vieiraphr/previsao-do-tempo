@@ -32,13 +32,11 @@ previsao-do-tempo/
 
 ## Como executar
 
-1. Instale o Node.js 18 ou superior.
-2. Crie uma chave gratuita no [OpenWeather](https://openweathermap.org/api).
-3. Na pasta `backend`, copie `.env.example` para `.env` e coloque sua chave em `OPENWEATHER_KEY`.
-4. No terminal, entre na pasta `backend` e execute `npm install` (na primeira vez) e depois `npm start`.
-5. Acesse <http://localhost:3000> no navegador.
+1. Baixe ou clone o repositório.
+2. Abra o arquivo `index.html` no navegador.
+3. Digite o nome de uma cidade e clique em **Buscar**.
 
-O backend fornece `GET /api/clima?cidade=Curitiba` e `GET /api/health`. A chave da OpenWeather fica no servidor e não é exposta ao navegador. É necessário ter conexão com a internet para consultar o clima.
+É necessário ter conexão com a internet para buscar os dados do clima.
 
 ## Unidades
 

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# previsao-do-tempo
-=======
 # Previsão do Tempo
 
 Site de previsão do tempo feito com HTML, CSS e JavaScript. O usuário digita o nome de uma cidade e vê o clima atual dela.
@@ -56,4 +53,3 @@ previsao-do-tempo/
 |-----------------|-----------|
 | Pedro Vieira    | Front End |
 | Caio Carbornar  | Back End  |
->>>>>>> b56b978 (docs(readme): add initial README with features and team)
